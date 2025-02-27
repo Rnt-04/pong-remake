@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab055e5e2150b564db901d9c4b8bf568
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: 9d42ac2919766184ca9149f4017a2c1b, type: 3}
+  - paddleHitSound: {fileID: 8300000, guid: f132bb24a3f1efa49ac57518ef56d3c5, type: 3}
+  - scoreSound: {fileID: 8300000, guid: 6967f3e70e7e5864f8ef02ebbf8f42f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
